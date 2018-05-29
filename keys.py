@@ -1,5 +1,4 @@
 from twython import Twython
-
 #api keys
 API_KEY= ''
 API_SECRET=  ''
